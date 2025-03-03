@@ -1,0 +1,17 @@
+{
+  "name": "7-02md",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NomadGaall",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.1.0",
+    "eslint": "^9.21.0",
+    "eslint-plugin-react": "^7.34.1",
+    "prettier": "3.2.5"
+  }
+}
